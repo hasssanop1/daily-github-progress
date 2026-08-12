@@ -5,3 +5,8 @@
 Category: Python
 Hours: 0.5
 - we updated the daily_tracker.py
+
+2026-08-12
+Category: React
+Hours: 0.15
+- we learnt about UserContext
